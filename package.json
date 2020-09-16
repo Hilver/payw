@@ -1,8 +1,8 @@
 {
   "name": "payw",
   "version": "1.0.0",
-  "description": "payw is a lighweight extension for camelCase, kebab-case, snake_case parse to user friendly string.",
-  "main": "./dist/bundle.js",
+  "description": "payw is a lightweight multiple way parser which cover most of the known naming conventions",
+  "main": "./dist/index.js",
   "scripts": {
     "build": "webpack",
     "test": "jest"
@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/Hilver/payw",
   "keywords": [
-    "parser"
+    "parser, camel case, kebab case, snake case"
   ],
   "author": "Pawel Peczkowski",
   "license": "MIT",

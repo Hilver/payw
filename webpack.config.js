@@ -20,7 +20,7 @@ module.exports = {
 	output: {
 		library: 'payw',
 		libraryTarget: 'commonjs2',
-		filename: 'bundle.js',
+		filename: 'index.js',
 		path: path.resolve(__dirname, 'dist'),
 	},
 	plugins: [
